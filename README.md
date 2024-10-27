@@ -62,3 +62,4 @@ Copia el script de scripts/analysis_GEE.js y pégalo en la consola de GEE para e
 - **Visualización en Google Earth Engine**:  
   ![script_GEE.png](./Fusion%20de%20la%20Nieve/images/script_GEE.png)  
   *Descripción*: Captura de pantalla de la visualización de los datos de NDSI y nieve húmeda en la consola de Google Earth Engine. Muestra cómo se integra la información de diferentes bandas para el análisis de nieve en la región.# SnowRisk-Analysis
+# AludRisk_Analysis
