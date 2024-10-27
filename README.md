@@ -7,7 +7,6 @@ Este repositorio contiene el código y los datos para el análisis de riesgos de
 - **data/**: Contiene los archivos de datos utilizados para el análisis:
   - `area_protegida.shp`: Archivo Shapefile con la delimitación de las áreas protegidas en la región.
   - `ee-chart.csv`: Datos de la serie temporal de cobertura nívea.
-  - **r_drive/**: Archivos .tif del resultado del analisis en GEE (se guardan en DRIVE)
 
 - **scripts/**: Contiene los scripts para la ejecución del análisis en Google Earth Engine.
   - `analysis_GEE.js`: Script JavaScript para GEE, que realiza la detección de nieve y la exportación de resultados.
